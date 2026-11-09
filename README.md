@@ -21,7 +21,7 @@ Este espaço reúne soluções para problemas de diferentes níveis de dificulda
 ├── iniciante/
 ├── ad-hoc/
 ├── strings/
-├── estruturas e biblitecas/
+├── estruturas-e-biblitecas/
 ├── matematicas/
 └── ...
 ```
